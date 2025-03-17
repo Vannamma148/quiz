@@ -1,6 +1,7 @@
 # QUIZ 
-HTML, CSS, JS, PHP Quiz Project created using html, css, php and mysql languages.
--Student/User can test revise there HTML, CSS, JavaScript and Php Skills at the end will get score how much they scored.
+HTML, CSS, JS, PHP Quiz Project created using html, css, php and mysql languages.<br>
+Students/Users can test and revise their HTML, CSS, JavaScript, and PHP skills. <br>
+In the end, they will get a score based on their scores.
 
 
 

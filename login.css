@@ -1,0 +1,76 @@
+body {
+    padding: 0;
+    margin: 0;
+    background: linear-gradient(to left, #151529, crimson);
+}
+
+h1 {
+    text-align: center;
+    font-size: 2em;
+    color: white;
+    letter-spacing: -1px;
+    font-weight: 600;
+    animation: blur .75s ease-out infinite;
+    text-shadow: 0px 0px 5px #fff, 0px 0px 7px #fff;
+}
+
+.log {
+    margin-top: 180px;
+}
+
+h3 {
+    margin: 30px;
+    margin-left: 80px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    font-size: 1.4rem;
+}
+
+b {
+    font-size: 1.2rem;
+}
+
+#t1 {
+    border-radius: 60px;
+    margin: 0px 0px 0px 28px;
+    border: 2px;
+    padding: 10px;
+    width: 200px;
+}
+
+#t2 {
+    border-radius: 60px;
+    border: 2px;
+    padding: 10px;
+    width: 200px;
+}
+
+#b1 {
+    border-radius: 60px;
+    background: activecaption;
+    border: 2px solidrgb(16, 151, 192);
+    padding: 10px;
+    margin: 6px 34px;
+    width: 100px;
+    height: 40px;
+}
+
+#b2 {
+    border-radius: 60px;
+    background: activecaption;
+    border: 2px solidrgb(16, 151, 192);
+    padding: 10px;
+    margin: 6px -30px;
+    width: 100px;
+    height: 40px;
+}
+
+#b1:hover {
+    background-color: crimson;
+    color: whitesmoke;
+}
+
+#b2:hover {
+    background-color: crimson;
+    color: whitesmoke;
+}
